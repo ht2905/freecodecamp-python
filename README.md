@@ -9,7 +9,7 @@ Completed workshops and labs from the [freeCodeCamp Python v9 curriculum](https:
 | `pin_extractor.py`                | Workshop | Build a PIN Extractor                | Nested loops, `enumerate()`, `split()`, multi-line string processing, indexing                       |
 | `number_pattern_generator.py`     | Lab      | Build a Number Pattern Generator     | `for` loops, `range()`, string construction, validation                                              |
 | `medical_data_validator.py`       | Workshop | Build a Medical Data Validator       | Dictionaries, sets, regular expressions, `re.fullmatch()`, validation, error reporting               |
-| `medical_instrument_inventory.py` | Workshop | Build a Musical Instrument Inventory | Classes, objects, constructors, attributes, instance methods                                         |
+| `musical_instrument_inventory.py` | Workshop | Build a Musical Instrument Inventory | Classes, objects, constructors, attributes, instance methods                                         |
 | `media_catalogue.py`              | Workshop | Build a Media Catalogue              | Classes, inheritance, `super()`, polymorphism, custom exceptions, validation, filtering, `__str__()` |
 
 ## Progress
