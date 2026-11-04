@@ -147,15 +147,6 @@ Or using `uv`:
 uv run python caesar_cipher.py
 ```
 
-## Curriculum Progress
+## Curriculum Tracking
 
-### Python v9
-
-- [x] Build a Caesar Cipher
-- [x] Build an RPG Character
-- [x] Build a PIN Extractor
-- [x] Build a Number Pattern Generator
-- [x] Build a Medical Data Validator
-- [x] Build a Musical Instrument Inventory
-- [x] Build a Media Catalogue
-- [ ] Remaining Python v9 curriculum
+For the real-time curriculum checklist and progress status, see [`curriculum-progress.md`](curriculum-progress.md).
